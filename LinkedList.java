@@ -9,7 +9,9 @@ public class LinkedList {
 this.data = data;
 this.next = null;
         }
+   
     }
+
 
     Node head = null;
     Node tail = null;
